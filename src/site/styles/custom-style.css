@@ -1,0 +1,134 @@
+/* Adds lines under picture */
+.dataview.table-view-table tr {
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+.dataview.table-view-table tr:last-of-type {
+  border-bottom: none;
+}
+
+/* Vertically center the contents of each cell in a Dataview table */
+.dataview.table-view-table td,
+.dataview.table-view-table th {
+  vertical-align: middle;
+}
+
+/* Target only notes that have cssclasses: movie-gallery */
+.movie-gallery .dataview table td img {
+  max-width: 50px;
+  height: auto;
+}
+
+/* Example: Color a file named "ExampleFile.md" in red, bold text */
+.nav-file-title[data-path="Movies.md"] .nav-file-title-content {
+  color: #b548e8 !important;
+  font-weight: bold;
+}
+
+.nav-file-title[data-path="Anime.md"] .nav-file-title-content {
+  color: #4a67f7 !important;
+  font-weight: bold;
+}
+
+.nav-file-title[data-path="Anime Cards.md"] .nav-file-title-content {
+  color: #4a67f7 !important;
+  font-weight: bold;
+}
+
+.nav-file-title[data-path="Movie Cards.md"] .nav-file-title-content {
+  color: #b548e8 !important;
+  font-weight: bold;
+}
+
+.nav-file-title[data-path="Tv Show Cards.md"] .nav-file-title-content {
+  color: #cba7e8 !important;
+  font-weight: bold;
+}
+
+.nav-file-title[data-path="Tv Show's.md"] .nav-file-title-content {
+  color: #cba7e8 !important;
+  font-weight: bold;
+}
+
+span.status-finished {
+background-color: #2E7D32;  /* Dark muted green */
+color: #000000;             /* Desaturated light green text */
+border: 1px solid #388E3C;  /* Slightly lighter green border */
+  padding: 2px 6px;           /* Space inside the box */
+  border-radius: 4px;         /* Rounded corners */
+  display: inline-block;      /* Ensures padding/border wrap tightly around text */
+}
+
+span.status-dropped {
+  background-color: #fcb8b8;  /* Light red background */
+  color: #8b0000;             /* Dark red text */
+  border: 1px solid #8b0000;  /* Dark red border */
+  padding: 2px 6px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+span.status-watching {
+  background-color: #f5e890;  /* Yellow background */
+  color: #916803;             /* Dark golden text */
+  border: 1px solid #916803;  /* Dark golden border */
+  padding: 2px 6px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+span.status-ongoing {
+  background-color: #f5e890;  /* Yellow background */
+  color: #916803;             /* Dark golden text */
+  border: 1px solid #916803;  /* Dark golden border */
+  padding: 2px 6px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+span.status-hiatus {
+  background-color: #b3e5fc;  /* Light blue background */
+  color: #0277bd;             /* Dark blue text */
+  border: 1px solid #0277bd;  /* Dark blue border */
+  padding: 2px 6px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+span.status-dnf {
+background-color: #a63930;  /* Light red background */
+  color: #000000;             /* Dark red text */
+  border: 1px solid #b71c1c;  /* Dark red border */  
+  padding: 2px 6px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+span.status-undecided {
+background-color: #616161;  /* Medium-dark gray for contrast against dark bg */
+color: #FAFAFA;             /* Almost white text for readability */
+border: 1px solid #616161;  /* Light gray border for definition */
+  padding: 2px 6px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+span.status-reading {
+  background-color: #dba81a;  /* Yellow background */
+  color: #000000;             /* Dark golden text */
+  border: 1px solid #916803;  /* Dark golden border */
+  padding: 2px 6px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.series-number {
+  color: #D68A36;
+  margin-left: 2px;
+}
+
+
+
+
+
+
+
