@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/books/pet-sematary/"}
+{"dg-publish":true,"permalink":"/books/pet-sematary/","title":"Pet Sematary"}
 ---
 

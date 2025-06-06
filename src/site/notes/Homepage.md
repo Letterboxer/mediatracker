@@ -3,3 +3,7 @@
 ---
 
 [[Books\|Books]]
+
+[[Movies\|Movies]]
+
+[[Anime\|Anime]]
