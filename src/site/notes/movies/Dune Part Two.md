@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/movies/dune-part-two/"}
+{"dg-publish":true,"permalink":"/movies/dune-part-two/","title":"Dune Part Two"}
 ---
 
 
-Rewatches: 09.10.2024
+Rewatches: Oct 12 2024
