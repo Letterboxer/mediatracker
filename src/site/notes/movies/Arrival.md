@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/movies/arrival/"}
+{"dg-publish":true,"permalink":"/movies/arrival/","title":"Arrival"}
 ---
 
